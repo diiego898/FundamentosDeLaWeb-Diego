@@ -16,6 +16,6 @@ R: La solicitud es un requisito y la respuesta una solucion
 
 <a href="ElementosTexto/EmStrong.html">EmStrong</a>
 
-<a href="ListayTablas/lista.html">lista</a>
+<a href="ListasyTablas/lista.html">lista</a>
 
-<a href="ListayTablas/tablas.html">tablas</a>
+<a href="ListasyTablas/tablas.html">tablas</a>
