@@ -47,4 +47,4 @@ R:< p >
 
 R:Para proporcionar un hipervínculo a la URL definida en el atributo href
 
-<a href="Entrada-de-diccionario.html"></a>
+<a href="Entrada-de-diccionario.html">Dictionary Entry</a>
