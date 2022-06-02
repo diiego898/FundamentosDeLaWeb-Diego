@@ -19,3 +19,7 @@ R: La solicitud es un requisito y la respuesta una solucion
 <a href="ListasyTablas/lista.html">lista</a>
 
 <a href="ListasyTablas/tablas.html">tablas</a>
+
+<a href="ImagenyVideo/video.html">video</a>
+
+<a href="ImagenyVideo/Imagen.html">imagen</a>
