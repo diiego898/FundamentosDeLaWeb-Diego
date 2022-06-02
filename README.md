@@ -25,7 +25,7 @@ R: La solicitud es un requisito y la respuesta una solucion
 <a href="ImagenyVideo/Imagen.html">imagen</a>
 
 
-<a href="QuizElemental.html"></a>
+<a href="QuizElemental.html">Quiz Elemental</a>
 
 1. ¿Cuál es el lenguaje de marcado principal para crear páginas web y otra información que se puede mostrar en un navegador web?
 
