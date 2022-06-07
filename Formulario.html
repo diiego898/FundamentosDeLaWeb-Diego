@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Registration</title>
+</head>
+
+<body>
+    <form action="/process" method="post">
+        <h1>Registration Form</h1>
+        <div>
+            <label>First name:* </label>
+            <input type="text" name="name">
+        </div>
+
+        <div>
+            <label>Lost Name:* </label>
+            <input type="text" name="name">
+        </div>
+
+        <div>
+            <label>Email Eddress:* </label>
+            <input type="email" name="Email">
+        </div>
+
+        <div>
+            <label>Password:* </label>
+            <input type="password" name="Password">
+        </div>
+
+        <div>
+            <label>Confirm Password:* </label>
+            <input type="password" name="Password">
+        </div>
+
+        <div>
+            <label>Birthday: </label>
+            <input type="date" name="dob">
+        </div>
+
+        <p>Gander Identify:</p>
+        <div>
+            <input type="radio" name="font" value="bold" id="bold">
+            <label for="bold">Male</label>
+            <input type="radio" name="font" value="normal" id="normal">
+            <label for="normal">Female</label>
+            <input type="radio" name="font" value="normal" id="normal">
+            <label for="normal">Non-Binary</label>
+            <input type="radio" name="font" value="normal" id="normal">
+            <label for="normal">I prefer not to answer</label>
+        </div>
+
+        <p>A short description about myself:</p>
+        <div>
+            <textarea name="comment" cols="20" rows="3"></textarea>
+        </div>
+
+        <div>
+            <label for="snack">Favorite Language:</label>
+            <select name="snack">
+                <option>JavaScript</option>
+                <option>HTML</option>
+                <option>CSS</option>
+                <option>Python</option>
+            </select>
+        </div>
+
+        <div>
+            <input type="checkbox" name="accept" id="accept">
+            <label for="accept">Yes,I would like to receive periodic email updates</label>
+        </div>
+
+        <div>
+            <input type="submit" value="Create Account">
+        </div>
+        <p>*Indicates a requiered field</p>
+    </form>
+
+</body>
+
+</html>
