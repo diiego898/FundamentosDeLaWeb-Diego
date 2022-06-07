@@ -48,3 +48,12 @@ R:< p >
 R:Para proporcionar un hipervínculo a la URL definida en el atributo href
 
 <a href="Entrada-de-diccionario.html">Dictionary Entry</a>
+
+07/06/2022
+
+<a href="indentar.html">Indentar</a>
+
+<a href="pcs.html">Pcs</a>
+<!--psc mantiene una estructura padre,hijo y hermano-->
+
+<a href="CorregirSangreas">CorregirSangreas</a>
