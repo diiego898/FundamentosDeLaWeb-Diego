@@ -7,7 +7,7 @@ R: Funciona a traves de una solicitud de parte del cliente y una respuesta del s
 
 ¿Que es una solicitud y una respuesta?
 R: La solicitud es un requisito y la respuesta una solucion 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 02-06-2022
 
 <a href="ElementosTexto/encabezados.html">encabezados</a>
@@ -48,7 +48,7 @@ R:< p >
 R:Para proporcionar un hipervínculo a la URL definida en el atributo href
 
 <a href="Entrada-de-diccionario.html">Dictionary Entry</a>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 07/06/2022
 
 <a href="indentar.html">Indentar</a>
@@ -56,4 +56,7 @@ R:Para proporcionar un hipervínculo a la URL definida en el atributo href
 <a href="pcs.html">Pcs</a>
 <!--psc mantiene una estructura padre,hijo y hermano-->
 
-<a href="CorregirSangreas">CorregirSangreas</a>
+<a href="CorregirSangreas">Corregir Sangreas</a>
+
+<a href="Formulario.hrml">Formulario</a>
+ 
