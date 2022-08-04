@@ -65,4 +65,26 @@ R:Para proporcionar un hipervínculo a la URL definida en el atributo href
 <a href="CorregirSangreas">Corregir Sangreas</a>
 
 <a href="Formulario.hrml">Formulario</a>
+
+14/06/2022
  
+1. Según el código anterior, ¿qué selector seleccionaría el primer div<div id="title">?
+
+Icon
+#title { }
+2. Según el código anterior, ¿qué selector seleccionaría el segundo div <div class="main">?
+
+Icon
+.main { }
+3. Según el código anterior, ¿qué selector seleccionaría la etiqueta <h1>?
+
+Icon
+<code>h1 { }</code>
+4.  Según el código anterior, ¿qué selector seleccionaría todas las etiquetas de párrafo <p>?
+
+Icon
+p { }
+5. Según el código anterior, ¿qué selector seleccionaría la etiqueta de anclaje <a>?
+
+Icon
+Todas las anteriores
