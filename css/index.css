@@ -24,3 +24,19 @@ h3{
     text-align: right;
     color: rgb(19, 20, 66);
 }
+
+h3 {
+    font-size: 10pt;
+  }
+  p {
+    font-size: 14px;
+  }
+  a {
+    font-size: 1.2em;
+  }
+  span {
+    font-size: 80%;
+  }
+
+
+
