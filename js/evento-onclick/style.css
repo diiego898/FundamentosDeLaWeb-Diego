@@ -5,7 +5,7 @@
 }
 
 .nav {
-    background-color: grey;
+    background-color: rgb(163, 163, 163);
     width: 1200px;
     height: 80px;
     margin-left: 330px;
@@ -39,7 +39,7 @@
     box-shadow: 5px 5px black;
 }
 
-#ninja {
+.ninja {
     width: 750px;
     height: 280px;
     margin-top: 30px;
@@ -74,3 +74,88 @@
     margin-top: 25px;
     font-size: 2.5em;
 }
+
+.ninja2 {
+    width: 750px;
+    height: 280px;
+    position: relative;
+    bottom: 200px;
+    margin-left: 330px;
+    background-color: white;
+    border: 3px solid black;
+}
+
+.ninja h1 {
+    font-size: 2.8em;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.ninja p {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.ninja h2 {
+    margin-left: 45px;
+    position: relative;
+    top: 10px;
+    
+}
+
+.ninja button {
+    background-color: rgb(255, 251, 0);
+    margin-left: 20px;
+    color: black;
+    width: 120px;
+    height: 40px;
+    font-size: 1.1em;
+    box-shadow: 5px 5px black;
+}
+
+.der p {
+    margin-left: 250px;
+    font-size: 1.5em;
+    position: relative;
+    bottom: 25px;
+}
+
+.ninja2 h1 {
+    font-size: 2.8em;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.ninja2 p {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.ninja2 h2 {
+    margin-left: 45px;
+    position: relative;
+    top: 10px;
+    
+}
+
+.ninja2 button {
+    background-color: rgb(255, 251, 0);
+    margin-left: 20px;
+    color: black;
+    width: 120px;
+    height: 40px;
+    font-size: 1.1em;
+    box-shadow: 5px 5px black;
+    position: relative;
+    bottom: 30px;
+}
+
+.izq p {
+    margin-left: 250px;
+    font-size: 1.5em;
+    position: relative;
+    bottom: 25px;
+}
+
+
+
